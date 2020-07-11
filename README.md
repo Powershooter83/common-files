@@ -1,4 +1,4 @@
-![WorldEdit](worldedit-logo.png)
+![WorldEdit](Logo_powershooter83.png)
 =========
 
 WorldEdit is Minecraft mod that turns Minecraft into an in-game map editor (sorta, kinda).
