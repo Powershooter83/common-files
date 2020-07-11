@@ -27,4 +27,4 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for important guidelines to follo
 Links
 -----
 
-* [Discord](https://discord.gg/enginehub)
+* [Discord](https://discord.gg/hmqYfs8)
