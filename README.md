@@ -3,26 +3,7 @@
 
 Here you will find standard data for plugin development, which anyone can do but most are too lazy to do.
 
-* Make awesome stuff with half the time OR make ***quadruply** awesome* creations with the same time :sparkles:
-* Get lost in hundreds of options and functions that even we've forgotten existed
-* Utilize Photoshop-like tools like "selection areas" and "brushes"
-* Making fjords and other natural wonders with weird names
-* Also: fix grief, broken water, missing snow, raging fires, and other :poop:
-
-WorldEdit is open source!, so if you've just learned how to make a button blink, I probably recommend picking up a book on CS algorithms. The project is licensed using the GNU Lesser General Public License license, v3.
-
-Compiling
----------
-
-See [COMPILING.md](COMPILING.md) for a guide on compiling WorldEdit.
-
-Contributing
-------------
-
-We happily accept contributions, especially through pull requests on GitHub.
-Submissions must be licensed under the GNU Lesser General Public License v3.
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for important guidelines to follow.
+* You can use the few lines of code as you like, upload or whatever.
 
 Links
 -----
